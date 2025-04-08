@@ -1,0 +1,501 @@
+product_id,name,category,price,stock
+1,Serve Phone,Electronics,96.47,99
+2,Record Novel,Beauty,96.47,99
+3,Sign Shirt,Toys,96.47,99
+4,Good Mixer,Toys,96.47,99
+5,Doctor Novel,Beauty,96.47,99
+6,International Shirt,Toys,96.47,99
+7,Pay Novel,Beauty,96.47,99
+8,Majority Phone,Sports,96.47,99
+9,Fall Mixer,Toys,96.47,99
+10,Structure Mixer,Home & Kitchen,96.47,99
+11,News Perfume,Home & Kitchen,96.47,99
+12,Who Novel,Beauty,96.47,99
+13,Will Shirt,Books,96.47,99
+14,Road Shoes,Electronics,96.47,99
+15,Kitchen Novel,Clothing,96.47,99
+16,Pretty Mixer,Sports,96.47,99
+17,Decide Mixer,Electronics,96.47,99
+18,Edge Novel,Electronics,96.47,99
+19,Anyone Shoes,Sports,96.47,99
+20,Commercial Perfume,Sports,96.47,99
+21,Third Novel,Books,96.47,99
+22,Decide Novel,Toys,96.47,99
+23,Mrs Shirt,Beauty,96.47,99
+24,Eat Phone,Books,96.47,99
+25,Next Shirt,Clothing,96.47,99
+26,Stop Mixer,Home & Kitchen,96.47,99
+27,Worker Novel,Clothing,96.47,99
+28,Talk Shoes,Sports,96.47,99
+29,Talk Shoes,Home & Kitchen,96.47,99
+30,Scientist Shirt,Sports,96.47,99
+31,Be Shoes,Books,96.47,99
+32,Open Shoes,Electronics,96.47,99
+33,Hold Phone,Sports,96.47,99
+34,Guy Shirt,Home & Kitchen,96.47,99
+35,True Doll,Toys,96.47,99
+36,They Mixer,Home & Kitchen,96.47,99
+37,Many Doll,Toys,96.47,99
+38,Pass Perfume,Beauty,96.47,99
+39,Compare Mixer,Electronics,96.47,99
+40,Opportunity Mixer,Electronics,96.47,99
+41,Matter Shirt,Home & Kitchen,96.47,99
+42,State Doll,Beauty,96.47,99
+43,Phone Phone,Electronics,96.47,99
+44,Letter Mixer,Beauty,96.47,99
+45,Add Phone,Toys,96.47,99
+46,Role Mixer,Toys,96.47,99
+47,Eight Mixer,Beauty,96.47,99
+48,Always Mixer,Electronics,96.47,99
+49,Your Phone,Electronics,96.47,99
+50,Agency Shirt,Books,96.47,99
+51,Dream Mixer,Sports,96.47,99
+52,Together Shoes,Electronics,96.47,99
+53,Financial Doll,Toys,96.47,99
+54,Take Doll,Sports,96.47,99
+55,Surface Mixer,Sports,96.47,99
+56,Include Shirt,Electronics,96.47,99
+57,Speak Novel,Clothing,96.47,99
+58,Generation Novel,Sports,96.47,99
+59,Party Novel,Beauty,96.47,99
+60,Better Doll,Clothing,96.47,99
+61,Capital Doll,Books,96.47,99
+62,Success Doll,Electronics,96.47,99
+63,Production Phone,Toys,96.47,99
+64,Factor Phone,Clothing,96.47,99
+65,Alone Doll,Beauty,96.47,99
+66,Administration Doll,Clothing,96.47,99
+67,Military Shirt,Clothing,96.47,99
+68,Soon Perfume,Home & Kitchen,96.47,99
+69,Policy Phone,Toys,96.47,99
+70,Skin Perfume,Home & Kitchen,96.47,99
+71,Stuff Mixer,Sports,96.47,99
+72,Laugh Novel,Sports,96.47,99
+73,Ten Phone,Clothing,96.47,99
+74,Story Phone,Sports,96.47,99
+75,Democrat Phone,Toys,96.47,99
+76,Business Doll,Toys,96.47,99
+77,Particularly Mixer,Books,96.47,99
+78,Year Shoes,Clothing,96.47,99
+79,Raise Shirt,Books,96.47,99
+80,Partner Doll,Toys,96.47,99
+81,Happy Phone,Clothing,96.47,99
+82,Close Novel,Toys,96.47,99
+83,Say Perfume,Beauty,96.47,99
+84,Skill Phone,Beauty,96.47,99
+85,Morning Shirt,Beauty,96.47,99
+86,Despite Phone,Sports,96.47,99
+87,Wide Mixer,Clothing,96.47,99
+88,Soon Mixer,Books,96.47,99
+89,Card Shoes,Electronics,96.47,99
+90,And Perfume,Beauty,96.47,99
+91,All Mixer,Toys,96.47,99
+92,I Phone,Beauty,96.47,99
+93,Body Shirt,Home & Kitchen,96.47,99
+94,When Perfume,Toys,96.47,99
+95,Two Novel,Clothing,96.47,99
+96,Mouth Phone,Beauty,96.47,99
+97,National Mixer,Toys,96.47,99
+98,Seat Phone,Electronics,96.47,99
+99,One Novel,Beauty,96.47,99
+100,Natural Doll,Home & Kitchen,96.47,99
+101,Control Mixer,Books,96.47,99
+102,Thank Shirt,Clothing,96.47,99
+103,Enjoy Shoes,Home & Kitchen,96.47,99
+104,Risk Perfume,Clothing,96.47,99
+105,Although Phone,Toys,96.47,99
+106,Reality Phone,Electronics,96.47,99
+107,Finally Novel,Electronics,96.47,99
+108,Could Mixer,Electronics,96.47,99
+109,Trip Phone,Sports,96.47,99
+110,Occur Shoes,Electronics,96.47,99
+111,Late Shirt,Electronics,96.47,99
+112,Chair Phone,Toys,96.47,99
+113,Very Shoes,Electronics,96.47,99
+114,Per Shoes,Toys,96.47,99
+115,Reduce Phone,Toys,96.47,99
+116,National Doll,Toys,96.47,99
+117,Enjoy Shoes,Books,96.47,99
+118,Few Phone,Toys,96.47,99
+119,Practice Perfume,Books,96.47,99
+120,Particular Shoes,Electronics,96.47,99
+121,Last Perfume,Toys,96.47,99
+122,Everyone Shoes,Clothing,96.47,99
+123,Raise Shirt,Electronics,96.47,99
+124,Table Doll,Electronics,96.47,99
+125,Religious Perfume,Clothing,96.47,99
+126,Simple Doll,Clothing,96.47,99
+127,Two Shoes,Electronics,96.47,99
+128,By Mixer,Sports,96.47,99
+129,Maybe Phone,Beauty,96.47,99
+130,Add Perfume,Electronics,96.47,99
+131,Experience Doll,Beauty,96.47,99
+132,Standard Shoes,Toys,96.47,99
+133,Clearly Phone,Sports,96.47,99
+134,Risk Novel,Electronics,96.47,99
+135,Part Perfume,Electronics,96.47,99
+136,Enough Mixer,Clothing,96.47,99
+137,Within Doll,Sports,96.47,99
+138,Issue Perfume,Books,96.47,99
+139,Himself Shirt,Books,96.47,99
+140,Manager Phone,Clothing,96.47,99
+141,Eat Novel,Clothing,96.47,99
+142,Line Mixer,Books,96.47,99
+143,Attack Phone,Electronics,96.47,99
+144,Mrs Shirt,Sports,96.47,99
+145,Indeed Novel,Beauty,96.47,99
+146,Company Mixer,Beauty,96.47,99
+147,Enjoy Doll,Sports,96.47,99
+148,Often Shirt,Electronics,96.47,99
+149,Phone Shoes,Sports,96.47,99
+150,Seat Shirt,Toys,96.47,99
+151,Perform Mixer,Clothing,96.47,99
+152,Wrong Perfume,Toys,96.47,99
+153,Born Doll,Home & Kitchen,96.47,99
+154,Major Phone,Toys,96.47,99
+155,Charge Phone,Home & Kitchen,96.47,99
+156,Too Shoes,Books,96.47,99
+157,Difference Phone,Electronics,96.47,99
+158,Buy Doll,Clothing,96.47,99
+159,Run Shirt,Books,96.47,99
+160,Set Perfume,Home & Kitchen,96.47,99
+161,Official Mixer,Electronics,96.47,99
+162,Significant Doll,Books,96.47,99
+163,With Novel,Electronics,96.47,99
+164,Everything Perfume,Books,96.47,99
+165,Process Phone,Home & Kitchen,96.47,99
+166,Experience Mixer,Books,96.47,99
+167,South Shoes,Books,96.47,99
+168,So Phone,Toys,96.47,99
+169,Energy Perfume,Clothing,96.47,99
+170,Office Shoes,Electronics,96.47,99
+171,Others Perfume,Toys,96.47,99
+172,Wish Shirt,Clothing,96.47,99
+173,Alone Perfume,Electronics,96.47,99
+174,Maybe Phone,Toys,96.47,99
+175,Rule Shirt,Electronics,96.47,99
+176,Story Phone,Books,96.47,99
+177,Concern Shirt,Toys,96.47,99
+178,Often Doll,Beauty,96.47,99
+179,Animal Phone,Toys,96.47,99
+180,Box Mixer,Sports,96.47,99
+181,Peace Phone,Home & Kitchen,96.47,99
+182,Human Novel,Beauty,96.47,99
+183,Budget Doll,Beauty,96.47,99
+184,Chance Perfume,Books,96.47,99
+185,Move Doll,Beauty,96.47,99
+186,Step Doll,Toys,96.47,99
+187,When Mixer,Electronics,96.47,99
+188,Herself Doll,Sports,96.47,99
+189,Card Novel,Beauty,96.47,99
+190,Financial Perfume,Toys,96.47,99
+191,Return Novel,Sports,96.47,99
+192,Around Doll,Beauty,96.47,99
+193,Front Doll,Beauty,96.47,99
+194,Often Shoes,Clothing,96.47,99
+195,Later Perfume,Sports,96.47,99
+196,Analysis Novel,Toys,96.47,99
+197,Section Shirt,Sports,96.47,99
+198,Guess Shirt,Electronics,96.47,99
+199,Room Perfume,Clothing,96.47,99
+200,Total Shirt,Toys,96.47,99
+201,Thousand Doll,Beauty,96.47,99
+202,Himself Shoes,Beauty,96.47,99
+203,Teacher Mixer,Clothing,96.47,99
+204,Man Phone,Clothing,96.47,99
+205,Even Shirt,Sports,96.47,99
+206,Western Novel,Sports,96.47,99
+207,Learn Shoes,Toys,96.47,99
+208,Character Shirt,Clothing,96.47,99
+209,Water Novel,Beauty,96.47,99
+210,Late Doll,Electronics,96.47,99
+211,Approach Doll,Beauty,96.47,99
+212,Drive Shoes,Home & Kitchen,96.47,99
+213,Such Mixer,Books,96.47,99
+214,Yes Mixer,Beauty,96.47,99
+215,Fund Phone,Beauty,96.47,99
+216,Speech Phone,Clothing,96.47,99
+217,Kitchen Perfume,Beauty,96.47,99
+218,Somebody Novel,Beauty,96.47,99
+219,Mouth Shoes,Beauty,96.47,99
+220,Dark Doll,Clothing,96.47,99
+221,Process Shoes,Home & Kitchen,96.47,99
+222,Player Novel,Toys,96.47,99
+223,Fish Mixer,Books,96.47,99
+224,Person Doll,Clothing,96.47,99
+225,Certainly Phone,Sports,96.47,99
+226,Cover Novel,Books,96.47,99
+227,Defense Mixer,Sports,96.47,99
+228,Mrs Phone,Books,96.47,99
+229,Then Perfume,Clothing,96.47,99
+230,Reality Shirt,Books,96.47,99
+231,Ball Shirt,Electronics,96.47,99
+232,Lose Shoes,Home & Kitchen,96.47,99
+233,Too Novel,Clothing,96.47,99
+234,Beat Mixer,Sports,96.47,99
+235,Hope Shoes,Sports,96.47,99
+236,Street Shirt,Electronics,96.47,99
+237,List Doll,Sports,96.47,99
+238,When Mixer,Electronics,96.47,99
+239,Mind Shoes,Electronics,96.47,99
+240,Arm Doll,Toys,96.47,99
+241,Professor Phone,Toys,96.47,99
+242,Garden Phone,Home & Kitchen,96.47,99
+243,Measure Phone,Electronics,96.47,99
+244,Seat Doll,Sports,96.47,99
+245,Result Doll,Electronics,96.47,99
+246,Less Perfume,Toys,96.47,99
+247,Conference Phone,Home & Kitchen,96.47,99
+248,Visit Shoes,Beauty,96.47,99
+249,Group Shoes,Books,96.47,99
+250,Property Perfume,Home & Kitchen,96.47,99
+251,Office Shirt,Electronics,96.47,99
+252,Wind Perfume,Electronics,96.47,99
+253,However Perfume,Electronics,96.47,99
+254,Former Mixer,Toys,96.47,99
+255,Class Novel,Sports,96.47,99
+256,Plan Perfume,Clothing,96.47,99
+257,Image Shoes,Toys,96.47,99
+258,Cultural Mixer,Books,96.47,99
+259,Skin Doll,Sports,96.47,99
+260,Card Shoes,Clothing,96.47,99
+261,Fear Shirt,Electronics,96.47,99
+262,Hospital Shoes,Electronics,96.47,99
+263,Find Phone,Home & Kitchen,96.47,99
+264,Treat Shoes,Electronics,96.47,99
+265,Wonder Perfume,Beauty,96.47,99
+266,Garden Mixer,Beauty,96.47,99
+267,Degree Shoes,Beauty,96.47,99
+268,Second Mixer,Toys,96.47,99
+269,Gas Doll,Sports,96.47,99
+270,Little Phone,Toys,96.47,99
+271,Doctor Perfume,Toys,96.47,99
+272,Too Shirt,Books,96.47,99
+273,Candidate Shirt,Books,96.47,99
+274,Suggest Shoes,Beauty,96.47,99
+275,Catch Doll,Clothing,96.47,99
+276,Six Novel,Clothing,96.47,99
+277,Difficult Phone,Home & Kitchen,96.47,99
+278,Wonder Mixer,Home & Kitchen,96.47,99
+279,Get Perfume,Electronics,96.47,99
+280,Threat Novel,Electronics,96.47,99
+281,Boy Phone,Clothing,96.47,99
+282,True Novel,Sports,96.47,99
+283,Show Novel,Home & Kitchen,96.47,99
+284,Event Doll,Books,96.47,99
+285,Up Doll,Books,96.47,99
+286,Design Doll,Home & Kitchen,96.47,99
+287,Cover Mixer,Electronics,96.47,99
+288,Where Perfume,Beauty,96.47,99
+289,Claim Phone,Beauty,96.47,99
+290,Accept Mixer,Books,96.47,99
+291,Soon Novel,Beauty,96.47,99
+292,Animal Perfume,Toys,96.47,99
+293,Think Mixer,Beauty,96.47,99
+294,Officer Doll,Electronics,96.47,99
+295,Thus Doll,Sports,96.47,99
+296,Suggest Phone,Books,96.47,99
+297,Find Mixer,Home & Kitchen,96.47,99
+298,Employee Shirt,Books,96.47,99
+299,Eight Doll,Books,96.47,99
+300,Here Doll,Clothing,96.47,99
+301,Between Phone,Books,96.47,99
+302,Add Shirt,Clothing,96.47,99
+303,Among Perfume,Home & Kitchen,96.47,99
+304,Guy Mixer,Toys,96.47,99
+305,Near Perfume,Electronics,96.47,99
+306,Material Shoes,Sports,96.47,99
+307,Trouble Phone,Beauty,96.47,99
+308,Thousand Perfume,Clothing,96.47,99
+309,Miss Shoes,Beauty,96.47,99
+310,Such Doll,Clothing,96.47,99
+311,Economic Mixer,Beauty,96.47,99
+312,Hair Mixer,Electronics,96.47,99
+313,Glass Perfume,Toys,96.47,99
+314,Live Perfume,Toys,96.47,99
+315,Voice Shirt,Beauty,96.47,99
+316,Choice Shirt,Sports,96.47,99
+317,Professional Shirt,Toys,96.47,99
+318,Economy Mixer,Clothing,96.47,99
+319,Their Shoes,Electronics,96.47,99
+320,Group Perfume,Beauty,96.47,99
+321,Control Doll,Clothing,96.47,99
+322,Could Shirt,Toys,96.47,99
+323,Traditional Mixer,Beauty,96.47,99
+324,Mrs Shoes,Beauty,96.47,99
+325,Draw Shoes,Books,96.47,99
+326,About Shoes,Beauty,96.47,99
+327,Head Novel,Clothing,96.47,99
+328,Care Doll,Beauty,96.47,99
+329,Almost Shoes,Home & Kitchen,96.47,99
+330,Third Doll,Clothing,96.47,99
+331,Appear Phone,Books,96.47,99
+332,Different Shirt,Home & Kitchen,96.47,99
+333,Lose Novel,Beauty,96.47,99
+334,Wonder Doll,Home & Kitchen,96.47,99
+335,Indicate Shoes,Home & Kitchen,96.47,99
+336,Street Shirt,Home & Kitchen,96.47,99
+337,Technology Mixer,Beauty,96.47,99
+338,Wonder Phone,Clothing,96.47,99
+339,High Phone,Electronics,96.47,99
+340,Education Perfume,Books,96.47,99
+341,Court Shirt,Clothing,96.47,99
+342,Today Doll,Clothing,96.47,99
+343,End Shoes,Books,96.47,99
+344,Develop Perfume,Beauty,96.47,99
+345,Side Doll,Home & Kitchen,96.47,99
+346,Trouble Novel,Electronics,96.47,99
+347,Effort Novel,Books,96.47,99
+348,His Shoes,Electronics,96.47,99
+349,Site Shoes,Toys,96.47,99
+350,Subject Mixer,Sports,96.47,99
+351,Suggest Shirt,Toys,96.47,99
+352,Much Mixer,Home & Kitchen,96.47,99
+353,West Perfume,Books,96.47,99
+354,Tell Novel,Electronics,96.47,99
+355,Goal Novel,Sports,96.47,99
+356,Security Shirt,Clothing,96.47,99
+357,Rock Phone,Sports,96.47,99
+358,Hospital Phone,Home & Kitchen,96.47,99
+359,Argue Novel,Beauty,96.47,99
+360,Sit Novel,Electronics,96.47,99
+361,Reach Doll,Electronics,96.47,99
+362,Deal Novel,Electronics,96.47,99
+363,Admit Shirt,Books,96.47,99
+364,Glass Perfume,Toys,96.47,99
+365,Those Novel,Toys,96.47,99
+366,Reason Perfume,Beauty,96.47,99
+367,May Doll,Books,96.47,99
+368,Control Shoes,Home & Kitchen,96.47,99
+369,Language Phone,Home & Kitchen,96.47,99
+370,Run Perfume,Home & Kitchen,96.47,99
+371,Animal Novel,Electronics,96.47,99
+372,Toward Perfume,Clothing,96.47,99
+373,Form Shirt,Electronics,96.47,99
+374,Truth Novel,Clothing,96.47,99
+375,Own Novel,Sports,96.47,99
+376,Book Perfume,Beauty,96.47,99
+377,Nature Doll,Home & Kitchen,96.47,99
+378,Property Doll,Beauty,96.47,99
+379,Phone Shirt,Toys,96.47,99
+380,Lay Novel,Toys,96.47,99
+381,Meeting Novel,Home & Kitchen,96.47,99
+382,Serious Shirt,Home & Kitchen,96.47,99
+383,Want Mixer,Electronics,96.47,99
+384,Information Shirt,Home & Kitchen,96.47,99
+385,Allow Doll,Electronics,96.47,99
+386,Across Perfume,Books,96.47,99
+387,Fact Shirt,Toys,96.47,99
+388,Look Shirt,Beauty,96.47,99
+389,Since Mixer,Books,96.47,99
+390,Audience Doll,Clothing,96.47,99
+391,Edge Mixer,Beauty,96.47,99
+392,Page Novel,Home & Kitchen,96.47,99
+393,Deal Perfume,Toys,96.47,99
+394,Group Shirt,Books,96.47,99
+395,Race Shoes,Clothing,96.47,99
+396,Sure Perfume,Electronics,96.47,99
+397,Production Shoes,Books,96.47,99
+398,Far Shoes,Home & Kitchen,96.47,99
+399,Mr Phone,Toys,96.47,99
+400,History Shirt,Toys,96.47,99
+401,Whatever Novel,Toys,96.47,99
+402,Just Perfume,Beauty,96.47,99
+403,Perhaps Shoes,Toys,96.47,99
+404,Movie Phone,Sports,96.47,99
+405,Performance Phone,Toys,96.47,99
+406,Reveal Novel,Beauty,96.47,99
+407,Professor Novel,Sports,96.47,99
+408,Most Doll,Toys,96.47,99
+409,Girl Mixer,Books,96.47,99
+410,Despite Phone,Clothing,96.47,99
+411,Cup Novel,Sports,96.47,99
+412,Identify Shoes,Home & Kitchen,96.47,99
+413,Class Phone,Sports,96.47,99
+414,Town Mixer,Sports,96.47,99
+415,Seem Shirt,Books,96.47,99
+416,Receive Shoes,Clothing,96.47,99
+417,Certain Shoes,Toys,96.47,99
+418,Check Mixer,Home & Kitchen,96.47,99
+419,Hear Doll,Sports,96.47,99
+420,Various Phone,Electronics,96.47,99
+421,Issue Shirt,Clothing,96.47,99
+422,Wind Shirt,Electronics,96.47,99
+423,Use Perfume,Home & Kitchen,96.47,99
+424,Gun Perfume,Sports,96.47,99
+425,Relate Mixer,Home & Kitchen,96.47,99
+426,Age Shoes,Home & Kitchen,96.47,99
+427,Stand Phone,Home & Kitchen,96.47,99
+428,Somebody Shoes,Clothing,96.47,99
+429,Land Perfume,Clothing,96.47,99
+430,Goal Doll,Books,96.47,99
+431,Shoulder Shirt,Sports,96.47,99
+432,Serve Perfume,Beauty,96.47,99
+433,Law Perfume,Toys,96.47,99
+434,Travel Doll,Books,96.47,99
+435,Church Phone,Books,96.47,99
+436,Career Shoes,Clothing,96.47,99
+437,Usually Mixer,Sports,96.47,99
+438,Example Phone,Electronics,96.47,99
+439,Able Doll,Home & Kitchen,96.47,99
+440,Market Perfume,Home & Kitchen,96.47,99
+441,Attack Novel,Electronics,96.47,99
+442,Owner Perfume,Books,96.47,99
+443,Mrs Doll,Sports,96.47,99
+444,Concern Perfume,Beauty,96.47,99
+445,Since Mixer,Sports,96.47,99
+446,Different Doll,Clothing,96.47,99
+447,Accept Novel,Beauty,96.47,99
+448,Unit Phone,Home & Kitchen,96.47,99
+449,Research Novel,Books,96.47,99
+450,Necessary Perfume,Clothing,96.47,99
+451,Moment Mixer,Beauty,96.47,99
+452,Information Novel,Books,96.47,99
+453,Third Novel,Books,96.47,99
+454,Test Shirt,Toys,96.47,99
+455,Situation Phone,Clothing,96.47,99
+456,Join Shoes,Toys,96.47,99
+457,Arrive Phone,Sports,96.47,99
+458,Place Shoes,Clothing,96.47,99
+459,Include Phone,Clothing,96.47,99
+460,General Perfume,Home & Kitchen,96.47,99
+461,Station Shirt,Electronics,96.47,99
+462,Job Perfume,Electronics,96.47,99
+463,Might Phone,Books,96.47,99
+464,They Shoes,Home & Kitchen,96.47,99
+465,Moment Perfume,Books,96.47,99
+466,Fall Mixer,Sports,96.47,99
+467,Must Doll,Sports,96.47,99
+468,Prevent Novel,Clothing,96.47,99
+469,Light Shirt,Beauty,96.47,99
+470,Light Shirt,Toys,96.47,99
+471,Shake Novel,Books,96.47,99
+472,Debate Perfume,Books,96.47,99
+473,Among Phone,Books,96.47,99
+474,Nor Doll,Clothing,96.47,99
+475,Free Novel,Clothing,96.47,99
+476,Upon Shoes,Beauty,96.47,99
+477,International Mixer,Beauty,96.47,99
+478,For Shoes,Sports,96.47,99
+479,Whatever Doll,Clothing,96.47,99
+480,Expert Mixer,Toys,96.47,99
+481,Arrive Doll,Home & Kitchen,96.47,99
+482,Question Doll,Beauty,96.47,99
+483,Agree Shirt,Home & Kitchen,96.47,99
+484,Opportunity Phone,Clothing,96.47,99
+485,Design Shirt,Books,96.47,99
+486,Job Mixer,Clothing,96.47,99
+487,Simply Phone,Clothing,96.47,99
+488,Stand Shoes,Books,96.47,99
+489,Stay Doll,Books,96.47,99
+490,On Shoes,Electronics,96.47,99
+491,Early Doll,Home & Kitchen,96.47,99
+492,Blood Shirt,Home & Kitchen,96.47,99
+493,Citizen Shirt,Sports,96.47,99
+494,Focus Shoes,Electronics,96.47,99
+495,Establish Novel,Books,96.47,99
+496,National Perfume,Electronics,96.47,99
+497,Religious Mixer,Home & Kitchen,96.47,99
+498,Enjoy Shirt,Electronics,96.47,99
+499,End Shoes,Clothing,96.47,99
+500,Treat Doll,Home & Kitchen,96.47,99
